@@ -1,0 +1,79 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "1. Animals"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "2. Save to file"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "3. Read from file"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Returning to the main menu."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Invalid choice. Please try again."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Saving data to file: "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data was successfully saved to: arg"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data saving was unsuccessful."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Reading data from file: "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data was successfully read from: arg"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data reading was unsuccessful."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "=> Main Screen => Animals Screen"
+    }
+  ]
+}

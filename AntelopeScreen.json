@@ -1,0 +1,144 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "1. List all antelopes"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "2. Create a new antelope"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "3. Delete existing antelope"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "4. Modify existing antelope"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Here's a list of antelopes:"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Antelope number arg, "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "The list of antelopes is empty."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Antelope with name: arg has been added to a list of antelopes"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Invalid input."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the name of the antelope you want to delete? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Antelope with name: arg has been deleted from a list of antelopes"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Antelope not found."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Invalid input"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the name of the antelope you want to edit? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Antelope after edit:"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Antelope not found."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the name of the antelope? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the antelope's age? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the antelope's life span? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the antelope's social structure? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "What is the antelope's diet? "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 14,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Antelope Screen"
+    }
+  ]
+}

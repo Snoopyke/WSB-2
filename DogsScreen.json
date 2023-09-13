@@ -1,0 +1,134 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Available options:"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "1. List all dogs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "2. Create a new dog"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "3. Delete existing dog"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "4. Modify existing dog"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Returning to parent menu."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Here's a list of dogs:"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog number arg, "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "The list of dogs is empty."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog with name: arg has been added to the list of dogs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid input."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the dog you want to delete? "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog with name: arg has been deleted from the list of dogs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog not found."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid input"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the dog you want to edit? "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog after edit:"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog not found."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What name of the dog? "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the dog's age? "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the dog's breed? "
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Dogs Screen"
+    }
+  ]
+}

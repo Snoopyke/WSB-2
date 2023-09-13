@@ -1,0 +1,144 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "1. List all quokkas"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "2. Create a new quokka"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "3. Delete existing quokka"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "4. Modify existing quokka"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Here's a list of quokkas:"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Quokka number arg, "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "The list of quokkas is empty."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Quokka with name: arg has been added to a list of quokkas"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Invalid input."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What is the name of the quokka you want to delete? "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Quokka with name: arg has been deleted from a list of quokkas"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Quokka not found."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Invalid input"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What is the name of the quokka you want to edit? "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Quokka after edit:"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Quokka not found."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What name of the quokka? "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What is the quokka's age? "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What is the quokka's habitat? "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What is the quokka's weight?  "
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "What is the quokka's social behavior?"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 11,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Quokka Screen"
+    }
+  ]
+}

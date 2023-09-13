@@ -1,0 +1,144 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Your available choices are:"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "1. List all whales"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "2. Create a new whale"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "3. Delete existing whale"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "4. Modify existing whale"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Here's a list of whales:"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Whale number arg, "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "The list of whales is empty."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Whale with name: arg has been added to a list of whales"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Invalid input."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What is the name of the whale you want to delete? "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Whale with name: arg has been deleted from a list of whales"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Whale not found."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Invalid input"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What is the name of the whale you want to edit? "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Whale after edit:"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Whale not found."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What name of the whale? "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What is the whale's age? "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What is whale's reproduction?"
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What is the whale's sound? "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "What is the whale's migration pattern? "
+    },
+    {
+      "BgColor": 6,
+      "FrColor": 9,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Whale Screen"
+    }
+  ]
+}

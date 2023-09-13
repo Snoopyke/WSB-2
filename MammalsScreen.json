@@ -1,0 +1,54 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "Your available choices are"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "1. Dogs"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "2. Antelopes"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "3. Qokkas"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "4. Whales"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 9,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen"
+    }
+  ]
+}
